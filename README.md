@@ -1,2 +1,1 @@
-# Sample_project
-Project1
+# youtube-react-admin
